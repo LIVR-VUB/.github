@@ -48,7 +48,7 @@ Advance understanding of liver cell diversity, regeneration and fibrosis to driv
 
 ## Team & Training
 - **Current Members** | **Former Members**  
-  Explore profiles and roles on our [Team page](https://livr.research.vub.be/Team).  
+  Explore profiles and roles on our [Team page](https://livr.research.vub.be/livr-members/livr-members).  
 - **Doctoral & Post‑doc Training**  
   Interactive workshops, imaging courses, and 3R‑principle seminars for early‑career researchers.
 
@@ -57,7 +57,7 @@ Advance understanding of liver cell diversity, regeneration and fibrosis to driv
 ## News & Events
 - **Belgian Stem Cell Meeting** – Nov 28 2025 @ ULB Erasme Campus  
 - **Upcoming Seminars** & “Film Nights” showcasing 3R approaches and mini‑liver therapies  
-- Follow live updates in [News & Events](https://livr.research.vub.be/News).
+- Follow live updates in [News & Events](https://livr.research.vub.be/news-events).
 
 ---
 
