@@ -1,6 +1,6 @@
 <!-- Replace with your organization’s logo -->
 <p align="center">
-  <img src="assets/logo.png" alt="LIVR Logo" width="120" height="120">
+  <img src="LIVR%20logo%20files_LIVR%20RGB_VUB-LIVR_RGB_0.png" alt="LIVR Logo" width="120" height="120">
 </p>
 
 # Liver Cell Biology (LIVR)
