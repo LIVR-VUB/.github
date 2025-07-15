@@ -3,9 +3,9 @@
   <img src="LIVR%20logo%20files_LIVR%20RGB_VUB-LIVR_RGB_0%20(2).png" alt="LIVR Logo" width="12000" height="12000">
 </p>
 
-# Liver Cell Biology (LIVR)
+# Liver Cell Biology Research Group(LIVR)
 
-Brussels Health Campus • Vrije Universiteit Brussel
+Brussels Health Campus • Vrije Universiteit Brussel • Brussels • Belgium
 
 ---
 
