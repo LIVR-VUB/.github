@@ -42,7 +42,8 @@ Advance understanding of liver cell diversity, regeneration and fibrosis to driv
   - *Biofabrication*: “iPSC‑derived liver spheroids to model fibrosis”  
   - *Science*: “Hippo signaling instructs ectopic organ growth”  
 - **Full Library**  
-  Browse all [publications (2010–present)](https://pubmed.ncbi.nlm.nih.gov/?term=van+Grunsven+L&sort=date) and [archived volumes (2000–2009)](https://livr.research.vub.be/Publications).
+  Browse all [publications (2010–present)](https://pubmed.ncbi.nlm.nih.gov/?term=van+Grunsven+L&sort=date)
+  Research Portal [Click here](https://livr.research.vub.be/Publications).
 
 ---
 
