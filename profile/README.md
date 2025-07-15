@@ -9,6 +9,8 @@ Brussels Health Campus • Vrije Universiteit Brussel • Brussels • Belgium
 
 ---
 
+> _“By unlocking liver cell biology, we pave the way for precision therapies in chronic liver disease.”_
+
 ## Mission
 Advance understanding of liver cell diversity, regeneration and fibrosis to drive novel biomarkers, in vitro disease models and therapeutic strategies for chronic liver disorders.
 
@@ -66,8 +68,3 @@ Advance understanding of liver cell diversity, regeneration and fibrosis to driv
 Laarbeeklaan 103, Building D – Room D022  
 1090 Brussels, Belgium  
 jmlazou@vub.be | +32 2 477 4409  
-
----
-
-> _“By unlocking liver cell biology, we pave the way for precision therapies in chronic liver disease.”_
-
