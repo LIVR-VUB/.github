@@ -7,8 +7,6 @@
 
 Brussels Health Campus • Vrije Universiteit Brussel • Brussels • Belgium
 
----
-
 > _“By unlocking liver cell biology, we pave the way for precision therapies in chronic liver disease.”_
 
 ## Mission
