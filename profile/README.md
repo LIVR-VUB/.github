@@ -6,6 +6,8 @@
 # Liver Cell Biology Research Group(LIVR)
 
 Brussels Health Campus • Vrije Universiteit Brussel • Brussels • Belgium
+[![Hugging Face – LIVR-VUB](https://img.shields.io/badge/Hugging%20Face-⁠LIVR-VUB-FF6C37?logo=huggingface&logoColor=white)](https://huggingface.co/LIVR-VUB)
+
 
 ## Mission
 Advance understanding of liver cell diversity, regeneration and fibrosis to drive novel biomarkers, in vitro disease models and therapeutic strategies for chronic liver disorders.
